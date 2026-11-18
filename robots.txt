@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meridianlab.onrender.com/sitemap.xml
